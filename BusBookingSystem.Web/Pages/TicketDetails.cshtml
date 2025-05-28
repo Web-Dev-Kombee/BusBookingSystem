@@ -1,0 +1,96 @@
+@page
+@model BusBookingSystem.Web.Pages.TicketDetailsModel
+@{
+    ViewData["Title"] = "Ticket Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
+    <div class="max-w-md w-full">
+        @if (Model.Booking != null)
+        {
+            <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div class="bg-blue-600 p-4">
+                    <div class="flex items-center justify-between">
+                        <h1 class="text-xl font-semibold text-white">Ticket Details</h1>
+                        @if (Model.IsValid)
+                        {
+                            <span class="bg-green-500 text-white px-3 py-1 rounded-full text-sm">Valid</span>
+                        }
+                        else
+                        {
+                            <span class="bg-red-500 text-white px-3 py-1 rounded-full text-sm">Expired</span>
+                        }
+                    </div>
+                </div>
+
+                <div class="p-6 space-y-6">
+                    <div class="border-b pb-4">
+                        <div class="flex items-center justify-between">
+                            <div>
+                                <p class="text-sm text-gray-500">Passenger Name</p>
+                                <p class="text-lg font-medium">@Model.Booking.PassengerName</p>
+                            </div>
+                            <div class="text-right">
+                                <p class="text-sm text-gray-500">Booking ID</p>
+                                <p class="text-sm font-mono">@Model.Booking.Id.ToString().Substring(0, 8)</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-2 gap-6">
+                        <div>
+                            <p class="text-sm text-gray-500">Bus Number</p>
+                            <p class="text-lg font-medium">@Model.Booking.BusNumber</p>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-500">Seat Number</p>
+                            <p class="text-lg font-medium">@Model.Booking.SeatNumber</p>
+                        </div>
+                    </div>
+
+                    <div class="bg-gray-50 rounded-lg p-4">
+                        <p class="text-sm text-gray-500">Travel Date & Time</p>
+                        <div class="flex items-center justify-between mt-1">
+                            <p class="text-lg font-medium">@Model.Booking.TravelDate.ToString("dd MMM yyyy")</p>
+                            <p class="text-lg font-medium">@Model.Booking.TravelDate.ToString("HH:mm")</p>
+                        </div>
+                    </div>
+
+                    @if (!Model.IsValid)
+                    {
+                        <div class="bg-red-50 border border-red-200 rounded-lg p-4">
+                            <div class="flex items-center">
+                                <svg class="w-5 h-5 text-red-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                                </svg>
+                                <p class="text-red-700">This ticket has expired</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <div class="text-center">
+                    <svg class="w-12 h-12 text-red-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    <h2 class="text-xl font-semibold text-gray-800 mb-2">Ticket Not Found</h2>
+                    <p class="text-gray-600">@Model.ErrorMessage</p>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html> 

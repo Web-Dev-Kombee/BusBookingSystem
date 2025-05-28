@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BusBookingSystem - CursorExp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\admin\\editbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\admin\\editbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\ticketdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\ticketdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\shared\\_seatmap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\shared\\_seatmap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|solutionrelative:busbookingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|solutionrelative:busbookingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|solutionrelative:busbookingsystem.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\models\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\models\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\models\\bookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\models\\bookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\dtos\\busdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\dtos\\busdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\models\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\models\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\services\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\services\\ibusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\services\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\services\\busservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\common\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\common\\messageconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3574CD-DE6A-437B-874D-9E806F958DB4}|BusBookingSystem.Domain\\BusBookingSystem.Domain.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.domain\\interfaces\\ibusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3574CD-DE6A-437B-874D-9E806F958DB4}|BusBookingSystem.Domain\\BusBookingSystem.Domain.csproj|solutionrelative:busbookingsystem.domain\\interfaces\\ibusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3574CD-DE6A-437B-874D-9E806F958DB4}|BusBookingSystem.Domain\\BusBookingSystem.Domain.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3574CD-DE6A-437B-874D-9E806F958DB4}|BusBookingSystem.Domain\\BusBookingSystem.Domain.csproj|solutionrelative:busbookingsystem.domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.api\\controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|solutionrelative:busbookingsystem.api\\controllers\\busescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\commands\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\commands\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\handlers\\createbookinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\handlers\\createbookinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\handlers\\deletebookinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\handlers\\deletebookinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\commands\\updatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\commands\\updatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\commands\\deletebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\commands\\deletebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.application\\brokers\\bookingbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB0CE30-1A12-443F-8EB7-AA9E717A86A5}|BusBookingSystem.Application\\BusBookingSystem.Application.csproj|solutionrelative:busbookingsystem.application\\brokers\\bookingbroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC38B74-22A8-4A29-A3B5-372658B3B890}|BusBookingSystem.Infrastructure\\BusBookingSystem.Infrastructure.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC38B74-22A8-4A29-A3B5-372658B3B890}|BusBookingSystem.Infrastructure\\BusBookingSystem.Infrastructure.csproj|solutionrelative:busbookingsystem.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E640C0AE-808A-41B3-8BEA-1204A35885AD}|BusBookingSystem.Web\\BusBookingSystem.Web.csproj|solutionrelative:busbookingsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|d:\\busbookingsystem - cursorexp\\busbookingsystem.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05AFAC4-731A-4708-B0DB-2DFBB964C4F9}|BusBookingSystem.Api\\BusBookingSystem.Api.csproj|solutionrelative:busbookingsystem.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAtwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:12:01.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketDetails.cshtml",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\TicketDetails.cshtml",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\TicketDetails.cshtml",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\TicketDetails.cshtml",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\TicketDetails.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:11:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SeatMap.cshtml",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Shared\\_SeatMap.cshtml",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\Shared\\_SeatMap.cshtml",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Shared\\_SeatMap.cshtml",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\Shared\\_SeatMap.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:11:00.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditBooking.cshtml",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Admin\\EditBooking.cshtml",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\Admin\\EditBooking.cshtml",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Admin\\EditBooking.cshtml",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\Admin\\EditBooking.cshtml",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAtwJ4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:10:48.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAtwBkBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:10:32.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:09:35.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\IBookingService.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Services\\IBookingService.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\IBookingService.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Services\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:04:28.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Common\\ApiResponse.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:59:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageConstants.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Common\\MessageConstants.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Common\\MessageConstants.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Common\\MessageConstants.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Common\\MessageConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:59:36.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BusService.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\BusService.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Services\\BusService.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\BusService.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Services\\BusService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:07:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Services\\BookingService.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\BookingService.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Services\\BookingService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:07:35.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\BookingDto.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Models\\BookingDto.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\BookingDto.cs",
+              "RelativeToolTip": "BusBookingSystem.Web\\Models\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:57:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Api\\Program.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Program.cs",
+              "RelativeToolTip": "BusBookingSystem.Api\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:50.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Api\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "BusBookingSystem.Api\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwFAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:48:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Program.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Program.cs",
+              "RelativeToolTip": "BusBookingSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:53:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BusBookingSystem.Api\\appsettings.json",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\appsettings.json",
+              "RelativeToolTip": "BusBookingSystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T08:47:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBusService.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\IBusService.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Services\\IBusService.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Services\\IBusService.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Services\\IBusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:04:30.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BusBookingSystem.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:26:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Dtos\\BookingDto.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Dtos\\BookingDto.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Dtos\\BookingDto.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Dtos\\BookingDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:46:15.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusDto.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Dtos\\BusDto.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Dtos\\BusDto.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Dtos\\BusDto.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Dtos\\BusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:46:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingResult.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\BookingResult.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Models\\BookingResult.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\BookingResult.cs",
+              "RelativeToolTip": "BusBookingSystem.Web\\Models\\BookingResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:57:36.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Models\\CreateBookingCommand.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\CreateBookingCommand.cs",
+              "RelativeToolTip": "BusBookingSystem.Web\\Models\\CreateBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:57:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBusRepository.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Domain\\Interfaces\\IBusRepository.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Domain\\Interfaces\\IBusRepository.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Domain\\Interfaces\\IBusRepository.cs",
+              "RelativeToolTip": "BusBookingSystem.Domain\\Interfaces\\IBusRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:57:21.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Domain\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Domain\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Domain\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "BusBookingSystem.Domain\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:57:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteBookingHandler.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Handlers\\DeleteBookingHandler.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Handlers\\DeleteBookingHandler.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Handlers\\DeleteBookingHandler.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Handlers\\DeleteBookingHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:06:38.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateBookingHandler.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Handlers\\CreateBookingHandler.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Handlers\\CreateBookingHandler.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Handlers\\CreateBookingHandler.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Handlers\\CreateBookingHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:06:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Commands\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Commands\\CreateBookingCommand.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Commands\\CreateBookingCommand.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Commands\\CreateBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:00:41.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateBookingCommand.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Commands\\UpdateBookingCommand.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Commands\\UpdateBookingCommand.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Commands\\UpdateBookingCommand.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Commands\\UpdateBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:00:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BusesController.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Controllers\\BusesController.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Api\\Controllers\\BusesController.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Controllers\\BusesController.cs",
+              "RelativeToolTip": "BusBookingSystem.Api\\Controllers\\BusesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:50:50.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteBookingCommand.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Commands\\DeleteBookingCommand.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Commands\\DeleteBookingCommand.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Commands\\DeleteBookingCommand.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Commands\\DeleteBookingCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:00:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookingBroker.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Brokers\\BookingBroker.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Application\\Brokers\\BookingBroker.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Application\\Brokers\\BookingBroker.cs",
+              "RelativeToolTip": "BusBookingSystem.Application\\Brokers\\BookingBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:58:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "BusBookingSystem.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:53:52.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\Models\\ErrorResponse.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "BusBookingSystem.Web\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:53:38.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "BusBookingSystem.Web\\appsettings.json",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Web\\appsettings.json",
+              "RelativeToolTip": "BusBookingSystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T08:53:28.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BusBookingSystem.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\BusBookingSystem - CursorExp\\BusBookingSystem.Api\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BusBookingSystem.Api\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:52:20.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

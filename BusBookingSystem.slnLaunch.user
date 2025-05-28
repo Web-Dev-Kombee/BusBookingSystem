@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BusBookingSystem.Api\\BusBookingSystem.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BusBookingSystem.Web\\BusBookingSystem.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

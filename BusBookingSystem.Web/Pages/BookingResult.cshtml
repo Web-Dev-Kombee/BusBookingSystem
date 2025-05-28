@@ -1,0 +1,157 @@
+﻿@page "{id:guid}"
+@model BusBookingSystem.Web.Pages.BookingResultModel
+@{
+    ViewData["Title"] = "Booking Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        .ticket-card {
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        .ticket-perforation {
+            height: 20px;
+            background: linear-gradient(45deg, #fff 25%, transparent 25%),
+                        linear-gradient(-45deg, #fff 25%, transparent 25%);
+            background-size: 10px 10px;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+        }
+        .ticket-perforation.bottom {
+            top: auto;
+            bottom: 0;
+        }
+        .animate-ticket {
+            animation: slideIn 0.5s ease-out;
+        }
+        @@keyframes slideIn {
+            from {
+                transform: translateY(20px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+        .qr-code-container {
+            transition: transform 0.3s ease;
+        }
+        .qr-code-container:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-100 to-blue-300">
+    <div class="ticket-card max-w-md w-full p-8 bg-white rounded-xl relative animate-ticket">
+        <div class="ticket-perforation"></div>
+        <div class="ticket-perforation bottom"></div>
+        <div class="ticket-content">
+            <div class="ticket-header border-b pb-4 mb-6">
+                <h2 class="text-3xl font-semibold text-gray-800 flex items-center">
+                    <span class="mr-2">🎟️</span> Bus Ticket
+                </h2>
+                <p class="text-sm text-gray-500">Booking Confirmation</p>
+            </div>
+
+            @if (Model.Booking != null)
+            {
+                <div class="space-y-4">
+                    <div class="flex justify-between items-center p-3 bg-gray-50 rounded-lg">
+                        <div class="flex items-center">
+                            <svg class="w-5 h-5 text-gray-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                            </svg>
+                            <p class="text-gray-700"><span class="font-medium">Passenger:</span></p>
+                        </div>
+                        <p class="text-gray-800 font-medium">@Model.Booking.PassengerName</p>
+                    </div>
+                    <div class="flex justify-between items-center p-3 bg-gray-50 rounded-lg">
+                        <div class="flex items-center">
+                            <svg class="w-5 h-5 text-gray-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7v8a2 2 0 002 2h6M8 7V5a2 2 0 012-2h4.586a1 1 0 01.707.293l4.414 4.414a1 1 0 01.293.707V15a2 2 0 01-2 2h-2" />
+                            </svg>
+                            <p class="text-gray-700"><span class="font-medium">Bus Number:</span></p>
+                        </div>
+                        <p class="text-gray-800 font-medium">@Model.Booking.BusNumber</p>
+                    </div>
+                    <div class="flex justify-between items-center p-3 bg-gray-50 rounded-lg">
+                        <div class="flex items-center">
+                            <svg class="w-5 h-5 text-gray-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                            </svg>
+                            <p class="text-gray-700"><span class="font-medium">Travel Date:</span></p>
+                        </div>
+                        <p class="text-gray-800 font-medium">@Model.Booking.TravelDate.ToString("dd MMM yyyy HH:mm")</p>
+                    </div>
+                    <div class="flex justify-between items-center p-3 bg-gray-50 rounded-lg">
+                        <div class="flex items-center">
+                            <svg class="w-5 h-5 text-gray-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                            </svg>
+                            <p class="text-gray-700"><span class="font-medium">Seat Number:</span></p>
+                        </div>
+                        <p class="text-gray-800 font-medium">@Model.Booking.SeatNumber</p>
+                    </div>
+
+                    @if (!string.IsNullOrEmpty(Model.QrCodeImage))
+                    {
+                        <div class="mt-8 flex justify-center qr-code-container">
+                            <div class="p-8 bg-white rounded-xl shadow-lg border border-gray-100">
+                                <div class="mb-4 text-center">
+                                    <h3 class="text-lg font-semibold text-gray-800">Scan QR Code</h3>
+                                    <p class="text-sm text-gray-500">Use any QR scanner to verify ticket details</p>
+                                </div>
+                                <div class="p-4 bg-white">
+                                    <img src="@Model.QrCodeImage" 
+                                         alt="Ticket QR Code" 
+                                         class="w-64 h-64 mx-auto" 
+                                         style="image-rendering: pixelated;" />
+                                </div>
+                                <div class="mt-4 text-center space-y-3">
+                                    <p class="text-sm text-gray-600">Ticket ID: @Model.Booking.Id</p>
+                                    <a href="@Model.QrCodeImage" 
+                                       download="ticket_qr_@(Model.Booking.Id).png"
+                                       class="inline-flex items-center text-sm text-blue-600 hover:text-blue-800 transition-colors">
+                                        <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                                        </svg>
+                                        Download QR Code
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <div class="flex items-center p-4 mb-6 bg-red-100 border-l-4 border-red-500 text-red-700 rounded-lg animate-fade-in">
+                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                    </svg>
+                    @Model.ErrorMessage
+                </div>
+            }
+
+            <div class="mt-8 border-t pt-6 text-center">
+                <a asp-page="Index" class="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition duration-200">
+                    Book Another Ticket
+                </a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

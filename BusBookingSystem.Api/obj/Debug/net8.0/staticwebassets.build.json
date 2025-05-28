@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Elak1gglK2ANGyzWweqZ7Fpp82ihZ0BM8WiSi+JaZVQ=",
+  "Source": "BusBookingSystem.Api",
+  "BasePath": "_content/BusBookingSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
