@@ -18,7 +18,7 @@ BusBookingSystem/
 
 ✅ User Registration and Login  
 ✅ Search Buses by source, destination, date  
-✅ Book and cancel tickets  
+✅ Book tickets  
 ✅ Admin panel for managing buses and routes  
 ✅ Clean UI with Bootstrap 5  
 ✅ Validations on both client and server side  
@@ -82,7 +82,7 @@ Uses ASP.NET Core Identity or custom token-based/session authentication for logi
 - Seat Availabilty: 
   ![image](https://github.com/user-attachments/assets/091e48f7-d580-4421-95dc-5de44c5392d7)
 
--Confirm Bus ticket with QR:
+- Confirm Bus ticket with QR:
   ![image](https://github.com/user-attachments/assets/e3b0707a-36a4-452b-99fd-67b11522c457)
 
 - QR Scan Output:
