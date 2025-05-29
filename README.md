@@ -44,7 +44,7 @@ Uses ASP.NET Core Identity or custom token-based/session authentication for logi
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/BusBookingSystem.git
+   git clone https://github.com/Web-Dev-Kombee/BusBookingSystem.git
    ```
 
 2. **Update `appsettings.json` with:**
